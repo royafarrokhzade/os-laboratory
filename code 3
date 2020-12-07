@@ -1,0 +1,7 @@
+#!/bin/bash
+#second script
+clear
+ls -lath
+echo "hello"
+user='whoami'
+echo $user
