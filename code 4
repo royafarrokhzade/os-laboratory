@@ -1,0 +1,6 @@
+#!/bin/bash
+#second script
+clear
+echo  "whats ur name?"
+Read name
+echo "hello $name"
