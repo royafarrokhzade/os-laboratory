@@ -1,0 +1,6 @@
+#!/bin/bash
+#second script
+clear
+ls -lath
+PROGRAM="bash"
+echo ="hello $PROGRAM"
